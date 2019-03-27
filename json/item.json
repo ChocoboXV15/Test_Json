@@ -1,0 +1,21 @@
+[
+  {"item": "1", "codeNo": "HOLDER S12M-SCLCR 06-14A", "MINstock": "1", "UnitPrice": "2,460/6.4.15", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "F.1090,COLLAR"},
+
+  {"item": "", "codeNo": "", "MINstock": "", "UnitPrice": "2,460/6.4.15", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "F.1090,COLLAR"},
+  {"item": "", "codeNo": "", "MINstock": "", "UnitPrice": "2,460/6.4.15", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "F.1090,COLLAR"},
+  {"item": "", "codeNo": "", "MINstock": "", "UnitPrice": "2,460/6.4.15", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "F.1090,COLLAR"},
+
+  {"item": "2", "codeNo": "HOLDER S12M-SDZCR 07-16A", "MINstock": "1", "UnitPrice": "2400", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "ST-0351,ST-0352"},
+  {"item": "3", "codeNo": "HOLDER S20R-SVZBR 11-25E(หมด Stock แล้วให้สั่ง HOLDER S20R-SVZBR11-25A ตัวใหม่)",
+    "MINstock": "2", "UnitPrice": "3,950.00/4.11.15", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "F.1055/1,F.1077/1"},
+  {"item": "1", "codeNo": "HOLDER S12M-SCLCR 06-14A", "MINstock": "1", "UnitPrice": "2,460", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "F.1090,COLLAR"},
+  {"item": "2", "codeNo": "HOLDER S12M-SDZCR 07-16A", "MINstock": "1", "UnitPrice": "2,400", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "ST-0351,ST-0352"},
+  {"item": "3", "codeNo": "HOLDER S20R-SVZBR 11-25E(หมด Stock แล้วให้สั่ง HOLDER S20R-SVZBR11-25A ตัวใหม่)", "MINstock": "2", "UnitPrice": "3,950", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "F.1055/1,F.1077/1"},
+  {"item": "4", "codeNo": "HOLDER S25-DRZ1648-06", "MINstock": "-", "UnitPrice": "7,810", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "CLAMP109"},
+  {"item": "5", "codeNo": "HOLDER S25-DRZ165660-06", "MINstock": "-", "UnitPrice": "9,020", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "CLAMP232"},
+  {"item": "6", "codeNo": "HOLDER S32-DRZ3162-10", "MINstock": "-", "UnitPrice": "0", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": ""},
+  {"item": "7", "codeNo": "HOLDER SH0416-100", "MINstock": "1", "UnitPrice": "1,350", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "SLEEVE HOLDER 4.0MM"},
+  {"item": "8", "codeNo": "HOLDER SH0616-100", "MINstock": "1", "UnitPrice": "1,320", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "SLEEVE HOLDER 6.0MM"},
+  {"item": "9", "codeNo": "HOLDER SH0716-100", "MINstock": "1", "UnitPrice": "1,320", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "SLEEVE HOLDER 7.0MM"},
+  {"item": "10", "codeNo": "HOLDER MVLNR 2020K-16", "MINstock": "1", "UnitPrice": "1,896", "BrandName":"KYOCERA", "Suppiler":"TTFT.S", "Product": "CHAMBER,VALVE15,20,25,HOTPLUG"}
+]
